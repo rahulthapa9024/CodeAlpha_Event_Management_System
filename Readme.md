@@ -3,6 +3,8 @@
 EventCraft is a premium, full-featured Event Management and RSVP platform designed to provide a seamless and visually stunning experience for both organizers and attendees. Built with a modern, high-performance tech stack, it features a glassmorphic dark-themed user interface, real-time analytics, secure authentication, and fully responsive layouts.
 
 ---
+## 🌐 Live Preview := https://code-alpha-event-management-system.vercel.app/
+## 📷 Preview Images
 
 ## ✨ Features
 
@@ -213,3 +215,5 @@ npm run dev
      - Is the user already registered? (Prevents duplicates)
      - Is the event capacity exceeded? (Returns capacity error)
    - If validations pass, a new `Registration` document links the `User` and the `Event`, and incrementing values update in real-time.
+## ✍️ Author
+rahulthapa9024
