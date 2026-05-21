@@ -18,6 +18,10 @@ app.use(cors({
 }));
 app.use(express.json());
 
+app.get("/",(res,req)=>{
+    res.send("Server is Runnning✅")
+})
+
 app.use('/api/auth', authRoutes);
 app.use('/api/events', eventRoutes);
 app.use('/api/registrations', registrationRoutes);
