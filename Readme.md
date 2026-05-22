@@ -220,4 +220,4 @@ npm run dev
      - Is the event capacity exceeded? (Returns capacity error)
    - If validations pass, a new `Registration` document links the `User` and the `Event`, and incrementing values update in real-time.
 ## ✍️ Author
-rahulthapa9024
+https://github.com/rahulthapa9024
